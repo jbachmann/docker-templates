@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <Container version="2">
   <Name>Caddy</Name>
-  <Repository>cmer/caddy</Repository>
+  <Repository>jbachmann/caddy</Repository>
   <Network>bridge</Network>
   <Privileged>false</Privileged>
   <Support>http://lime-technology.com/forum/index.php?topic=56635.0</Support>
@@ -10,12 +10,12 @@
   <Category>Network:Web</Category>
   <Date>2017-02-14</Date>
   <WebUI>http://[IP]:[PORT:80]</WebUI>
-  <Icon>https://raw.githubusercontent.com/cmer/docker-templates/master/cmer/images/caddy-icon.png</Icon>
+  <Icon>https://raw.githubusercontent.com/jbachmann/docker-templates/master/jbachmann/images/caddy-icon.png</Icon>
   <ExtraParams/>
 
   <Description>Caddy is an HTTP/2 web server with automatic HTTPS</Description>
-  <Registry>https://hub.docker.com/r/cmer/caddy</Registry>
-  <GitHub>https://github.com/cmer/docker-caddy</GitHub>
+  <Registry>https://hub.docker.com/r/jbachmann/caddy</Registry>
+  <GitHub>https://github.com/jbachmann/docker-caddy</GitHub>
   <Project>https://www.caddyserver.com/</Project>
 
   <Networking>
