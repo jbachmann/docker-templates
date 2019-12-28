@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <Container version="2">
-  <Name>Caddy</Name>
+  <Name>Caddy104</Name>
   <Repository>jbachmann/caddy</Repository>
   <Network>bridge</Network>
   <Privileged>false</Privileged>
